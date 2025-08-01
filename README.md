@@ -1,3 +1,5 @@
+All answers to the questions are stored in the `src/answers` directory.
+
 Run npm install to install the dependencies.
 
 ```bash
